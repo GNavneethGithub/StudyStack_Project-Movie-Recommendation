@@ -1,4 +1,4 @@
-# Movie Recommender System
+#  Advanced Film Suggestion
 
 ## Objective
 The objective of this project is to build a robust Movie Recommender System that provides personalized movie recommendations to users. This system is a part of my Springboard Capstone Project on Movie Data Analysis and Recommendation Systems. The project is divided into two parts, with the first part focusing on an extensive exploratory data analysis of movie metadata collected from TMDB, and the second part, detailed in this notebook, focusing on implementing various recommendation algorithms to build an ensemble model for movie recommendations.
